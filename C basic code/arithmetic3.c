@@ -1,8 +1,8 @@
 #include<stdio.h>
 int  main()
 {
-  int a=10,b=50;
-  int =;
-  printf("%d",);
+int a=5,b=6;
+  int multiple=a*b;
+  printf("%d",multiple);
   return 0;   
 }
